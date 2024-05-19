@@ -1,0 +1,9 @@
+REGEDIT4
+
+; Bing Search Off
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"BingSearchEnabled"=dword:00000000
+
+; https://www.clien.net/service/board/lecture/13680016
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f-f776-4464-8c53-06167f40cc99\8EC4B3A5-6868-48c2-BE75-4F3044BE88A7]
+"Attributes"=dword:00000002
