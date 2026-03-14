@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sizer>
+	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
+	<menu>
+		<group description="DUAL15" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
+			<resize description="DUAL15-Chrome-Left (1334x1034)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1334" height="1034" relocate="10" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-Chrome-Right (1334x1034)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1334" height="1034" relocate="10" monitor="-2" top="0" left="586" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-Explorer (1200x800)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1200" height="800" relocate="0" monitor="-2" top="80" left="80" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-Editor (1800x1080)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1800" height="1080" relocate="10" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-Left (960x1033)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="960" height="1033" relocate="10" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-Right (960x1033)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="960" height="1033" relocate="10" monitor="-2" top="0" left="960" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL15-KakaoTalk-Right (588x1035)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="588" height="1035" relocate="10" monitor="-2" top="0" left="1334" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+		</group>
+		<separator/>
+		<template/>
+		<configDialog/>
+	</menu>
+</sizer>

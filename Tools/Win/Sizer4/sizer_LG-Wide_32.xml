@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sizer>
+	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
+	<menu>
+		<group description="LG-Wide_32" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
+			<resize description="LG-Wide_32_Chrome-Left (1262x1400)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1262" height="1400" relocate="10" monitor="-2" top="20" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG-Wide_32_Chrome-Middle (1262x1400)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1262" height="1400" relocate="10" monitor="-2" top="20" left="920" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG-Wide_32_Chrome-Right (1262x1400)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1262" height="1400" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG-Wide_32_Chrome-Center (1262x1400)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1262" height="1400" relocate="5" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+		</group>
+		<separator/>
+		<template/>
+		<configDialog/>
+	</menu>
+</sizer>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sizer>
+	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
+	<menu>
+		<group description="DELL27" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
+			<resize description="DELL27_Chrome-RotateUpper" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1080" height="850" relocate="10" monitor="-2" top="350" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27_Chrome-RotateBottom" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1080" height="850" relocate="8" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27_Chrome-Left" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="950" height="1000" relocate="10" monitor="-2" top="60" left="22" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27_Chrome-Right" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="950" height="1000" relocate="10" monitor="-2" top="60" left="970" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27_Explorer_RotateUpper" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="900" height="600" relocate="10" monitor="-2" top="380" left="4" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27_Explorer_RotateBottom" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="900" height="600" relocate="10" monitor="-2" top="632" left="176" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27-UE4_Editor" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1200" height="850" relocate="10" monitor="-2" top="85" left="900" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DELL27-Center" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="950" height="950" relocate="5" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+		</group>
+		<separator/>
+		<template/>
+		<configDialog/>
+	</menu>
+</sizer>

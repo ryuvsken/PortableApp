@@ -1,0 +1,26 @@
+REGEDIT4
+
+; Bing Search Off
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"BingSearchEnabled"=dword:00000000
+
+; Superfetch Off
+; https://blog.naver.com/toruin84/222748949727
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection]
+"AllowTelemetry"=dword:00000000
+
+; Explorer More Option Off
+[HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32]
+@=""
+
+; Explorer More Option On
+; -[HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32]
+
+; Start Menu Top
+;[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3]
+; "Settings"=hex:30,00,00,00,fe,ff,ff,ff,02,00,00,00,01,00,00,00,5d,00,00,00,30,\
+;  00,00,00,00,00,00,00,d0,03,00,00,00,05,00,00,00,04,00,00,60,00,00,00,01,00,\
+;  00,00
