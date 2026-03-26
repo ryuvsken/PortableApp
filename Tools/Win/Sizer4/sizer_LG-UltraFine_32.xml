@@ -2,7 +2,9 @@
 <sizer>
 	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
 	<menu>
-		<group description="LG-UltraFine_32" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0"/>
+		<group description="LG_32-UltraFine" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0"/>
+			<resize description="LG_32-UltraFine-Chrome-Left (1920x2160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="2160" relocate="4" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG_32-UltraFine-Chrome-Right (1920x2160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="2160" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Left (1920x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="1200" relocate="4" monitor="-2" top="400" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Edge (1920x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="1200" relocate="0" monitor="-2" top="586" left="1" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UntraFine-Explorer (1200x880)" hotKey="48" hotKeyModifiers="3" hotKeyExtended="0" width="1200" height="880" relocate="0" monitor="-2" top="280" left="110" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
@@ -13,7 +15,8 @@
 			<resize description="LG_32-UltraFine-AppPlayer-03 (620x1160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="620" height="1160" relocate="10" monitor="-2" top="200" left="3216" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-RDP-AppPlayer01 (430x800)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="430" height="803" relocate="10" monitor="-2" top="100" left="1268" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-RDP-AppPlayer02 (430x800)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="430" height="802" relocate="10" monitor="-2" top="100" left="1695" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-		<resize description="LG_32-UltraFine-RDP-AppPlayer03 (430x800)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="430" height="803" relocate="10" monitor="-2" top="100" left="2106" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG_32-UltraFine-RDP-AppPlayer03 (430x800)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="430" height="803" relocate="10" monitor="-2" top="100" left="2106" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG_32-UltraFine-EmulGame (1920x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="1200" relocate="4" monitor="-2" top="574" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 		</group>
 		<separator/>
 		<template/>
