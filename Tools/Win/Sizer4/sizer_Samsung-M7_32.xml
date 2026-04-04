@@ -7,13 +7,13 @@
 			<resize description="M7_32-Chrome-Right (1264x1360)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1264" height="1360" relocate="10" monitor="-2" top="40" left="1296" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32-Chrome-Centers (1264x1360)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1264" height="1360" relocate="5" monitor="-2" top="40" left="1296" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32-Explorer (800x600)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="800" height="600" relocate="10" monitor="-2" top="200" left="70" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-			<resize description="M7_32-Flow-TA9 (1140x720)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1140" height="720" relocate="6" monitor="-2" top="400" left="40" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-			<resize description="M7_32-Flow-N20U (400x884)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="400" height="884" relocate="10" monitor="-2" top="250" left="100" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32-Edge-Left (1260x1020)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1260" height="1020" relocate="4" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32-Edge-Right (1260x1020)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1260" height="1020" relocate="6" monitor="-2" top="40" left="1296" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32_RDS (1282x1056)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1282" height="1056" relocate="10" monitor="-2" top="192" left="10" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32_OBS (1282x752)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1282" height="752" relocate="5" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="M7_32-AppPlayer-Android (540x927)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="540" height="927" relocate="10" monitor="-2" top="200" left="70" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="M7_32-Flow-TA9 (1140x720)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1140" height="720" relocate="6" monitor="-2" top="400" left="40" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="M7_32-Flow-N20U (400x884)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="400" height="884" relocate="10" monitor="-2" top="250" left="100" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 		</group>
 		<separator/>
 		<template/>
