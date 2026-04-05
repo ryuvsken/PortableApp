@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sizer>
+	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
+	<menu>
+		<group description="ASUS-Z13 (2560x1600)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
+			<resize description="ASUS-Z13-Chrome-Left (1600x1600)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1600" height="1600" relocate="4" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="ASUS-Z13-Chrome-Right (1600x1600)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1600" height="1600" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="ASUS-Z13-Explorer (1500x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1500" height="1200" relocate="0" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+		</group>
+		<separator/>
+		<template/>
+		<configDialog/>
+	</menu>
+</sizer>

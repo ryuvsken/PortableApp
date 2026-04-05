@@ -2,12 +2,12 @@
 <sizer>
 	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
 	<menu>
-		<group description="LG_32-UltraFine (3840x2160)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0"/>
+		<group description="LG_32-UltraFine (3840x2160)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
 			<resize description="LG_32-UltraFine-Chrome-Left (1920x2160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="2160" relocate="4" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Chrome-Right (1920x2160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="2160" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Left (1920x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="1200" relocate="4" monitor="-2" top="400" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Edge (1920x1200)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1920" height="1200" relocate="0" monitor="-2" top="586" left="1" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-			<resize description="LG_32-UntraFine-Explorer (1200x880)" hotKey="48" hotKeyModifiers="3" hotKeyExtended="0" width="1200" height="880" relocate="0" monitor="-2" top="280" left="110" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="LG_32-UntraFine-Explorer (1200x880)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1200" height="880" relocate="0" monitor="-2" top="280" left="110" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Flow-TA9 (1600x1024)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1600" height="1024" relocate="0" monitor="-2" top="633" left="2022" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-Flow-F7 (800x1920)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="800" height="1920" relocate="0" monitor="-2" top="163" left="2538" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="LG_32-UltraFine-AppPlayer-01 (620x1160)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="620" height="1160" relocate="10" monitor="-2" top="200" left="1982" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
