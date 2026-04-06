@@ -3,9 +3,9 @@
 	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
 	<menu>
 		<group description="DUAL18_5 (1920x1080)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
-			<resize description="DUAL18_5-Chrome-Left (1440x1080)" hotKey="49" hotKeyModifiers="3" hotKeyExtended="0" width="1440" height="1080" relocate="4" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-			<resize description="DUAL18_5-Chrome-Right (1440x1080)" hotKey="50" hotKeyModifiers="3" hotKeyExtended="0" width="1440" height="1080" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
-			<resize description="DUAL18_5-Explorer (1000x720)" hotKey="48" hotKeyModifiers="3" hotKeyExtended="0" width="1000" height="720" relocate="0" monitor="-2" top="80" left="80" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL18_5-Chrome-Left (1440x1080)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1440" height="1080" relocate="4" monitor="-2" top="0" left="0" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL18_5-Chrome-Right (1440x1080)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1440" height="1080" relocate="6" monitor="-2" top="" left="" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="DUAL18_5-Explorer (1000x720)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1000" height="720" relocate="0" monitor="-2" top="80" left="80" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="DUAL18_5-AppPlayer-Android-01 (513x960)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="513" height="960" relocate="10" monitor="-2" top="120" left="390" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="DUAL18_5-AppPlayer-Android-02 (513x960)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="513" height="960" relocate="10" monitor="-2" top="120" left="898" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
 			<resize description="DUAL18_5-AppPlayer-Android-03 (513x960)" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="513" height="960" relocate="10" monitor="-2" top="120" left="1408" noresize="0" relocateCoords="1" allowOutsideBounds="1"/>
