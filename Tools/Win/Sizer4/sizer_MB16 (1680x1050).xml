@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sizer>
+	<options showIconInTray="1" startInSafeMode="0" adjustOppositeEdge="0" tooltipOption="1" hotKey="90" hotKeyModifiers="10" hotKeyExtended="0" useDwmExtendedFrames="1"/>
+	<menu>
+		<group description="MB16 (1680x1050)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0">
+			<resize description="MB16-Chrome-Left (1200x1050)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1200" height="1050" relocate="4" monitor="-2" top="80" left="80" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="MB16-Chrome-Right (1200x1050)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="1200" height="1080" relocate="6" monitor="-2" top="80" left="1572" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="MB16-Explorer" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="800" height="600" relocate="10" monitor="-2" top="202" left="75" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="MB16-Edge-Right" hotKey="0" hotKeyModifiers="3" hotKeyExtended="0" width="1008" height="652" relocate="6" monitor="-2" top="398" left="671" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+			<resize description="MB16-AppPlayer-Android (850x1460)" hotKey="0" hotKeyModifiers="0" hotKeyExtended="0" width="850" height="1460" relocate="10" monitor="-2" top="192" left="150" noresize="0" relocateCoords="1" allowOutsideBounds="0"/>
+		</group>
+		<separator/>
+		<template/>
+		<configDialog/>
+	</menu>
+</sizer>
